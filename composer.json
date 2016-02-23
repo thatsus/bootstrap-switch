@@ -1,5 +1,5 @@
 {
-  "name": "components/bootstrap-switch",
+  "name": "thatsus/bootstrap-switch",
   "description": "Turn checkboxes and radio buttons into toggle switches.",
   "version": "3.3.2",
   "type": "component",
